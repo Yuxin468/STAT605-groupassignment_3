@@ -1,0 +1,7 @@
+job 1 job1sortword.sub 
+
+script pre 1 job1presplitData.sh
+script post 1 job1postSortword.sh
+
+
+
